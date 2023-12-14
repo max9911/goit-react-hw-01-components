@@ -1,0 +1,19 @@
+.item {
+  padding: 0 5px;
+  justify-content: center;
+  display: flex;
+  gap: 15px;
+  border: solid 1px black;
+  height: 100%;
+}
+.label {
+  padding-top: 40px;
+  text-align: center;
+  font-size: x-large;
+}
+.percentage {
+  padding-top: 40px;
+  text-align: center;
+  font-size: large;
+  color: blue;
+}

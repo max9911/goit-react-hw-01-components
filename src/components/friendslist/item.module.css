@@ -1,0 +1,28 @@
+.item {
+  padding: 5px 10px;
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  box-shadow: 10px 10px 25px rgb(54, 52, 52);
+}
+.statusOn {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: green;
+}
+.statusOff {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: red;
+}
+.avatar {
+  border-radius: 5%;
+  border: solid 2px gray;
+  padding: 5px 5px;
+}
+.name {
+  font-size: xx-large;
+  font-weight: bold;
+}
